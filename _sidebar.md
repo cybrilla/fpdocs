@@ -1,0 +1,31 @@
+- Getting started
+  - [Introduction](/)
+- Workflows
+  - Investors
+    - [Create an Investor](/pages/workflows/create-an-investor?target-res=hello)
+    - [Display Investor Details](/pages/workflows/display-investor-details)
+    - [Update Investor Details](/pages/workflows/update-investor-details)
+  - Mandates
+    - [Create an Investor](/pages/workflows/create-a-mandate)
+    - [Check Existing Mandate](/pages/workflows/check-existing-mandate)
+    - [Create E-Mandate](/pages/workflows/create-e-mandate)
+  - Orders
+    - [Create Lumpsum Order](/pages/workflows/create-lumpsum-order)
+    - [Create SIP Order](/pages/workflows/create-sip-order)
+    - [Update SIP Order](/pages/workflows/update-sip-order)
+    - [Cancel SIP Order](/pages/workflows/cancel-sip-order)
+    - [Cancel SIP Order Installment](/pages/workflows/cancel-sip-order-installment)
+    - [Display SIP Orders](/pages/workflows/display-sip-orders)
+    - [Sell/Redemption Order](/pages/workflows/sell-redemption-order)
+  - [**Goal Simulation**](/pages/workflows/goal-simulation)
+  - [**KYC**](/pages/workflows/kyc-steps)
+- [FAQ’s](/pages/faqs)
+- Other Links
+  - [About](/pages/other-links/about-us)
+  - [Regarding Support](/pages/other-links/regarding-support)
+  - <a style="display:inline;border-right-style:none;" href="/pages/other-links/registration-and-sandbox">
+      Registration and Sandbox
+    </a> <sup style="color:red;">NEW!</sup>
+  - [Activation and Live](/pages/other-links/activation-and-live)
+  - [Integration](/pages/other-links/integration)
+  - [Managed Operations](/pages/other-links/managed-operations)
