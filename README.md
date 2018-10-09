@@ -1,7 +1,7 @@
 <h1>Fintech Primitives</h1>
 <img height="18px" style="margin-left: 4px;" src="https://img.shields.io/badge/v1.0.1-2018.10.05-42b983.svg"/>
 
-<h2>Welcome to the MFPro documentation!</h2>
+<h2>Welcome to MFPro documentation!</h2>
 
 <h4>The following shall help your technical team to understand the flows of the system.</h4>
 <h4>You can use our API for creating investors and different types of orders; as well as getting information of previous transactions.</h4>

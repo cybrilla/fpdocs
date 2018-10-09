@@ -2,7 +2,7 @@
   - [Introduction](/)
 - Workflows
   - Investors
-    - [Create an Investor](/pages/workflows/create-an-investor?target-res=hello)
+    - [Create an Investor](/pages/workflows/create-an-investor)
     - [Display Investor Details](/pages/workflows/display-investor-details)
     - [Update Investor Details](/pages/workflows/update-investor-details)
   - Mandates
