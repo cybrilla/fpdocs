@@ -1,4 +1,5 @@
 ## Display Investor Details
+----------------
 
 #### Story -
 > As an investor, I login to the website / app and navigate to my details, So that I can check my existing details.

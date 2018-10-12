@@ -6,7 +6,7 @@
     - [Display Investor Details](/pages/workflows/display-investor-details)
     - [Update Investor Details](/pages/workflows/update-investor-details)
   - Mandates
-    - [Create an Investor](/pages/workflows/create-a-mandate)
+    - [Create a Mandate](/pages/workflows/create-a-mandate)
     - [Check Existing Mandate](/pages/workflows/check-existing-mandate)
     - [Create E-Mandate](/pages/workflows/create-e-mandate)
   - Orders
@@ -19,7 +19,7 @@
     - [Sell/Redemption Order](/pages/workflows/sell-redemption-order)
   - [**Goal Simulation**](/pages/workflows/goal-simulation)
   - [**KYC**](/pages/workflows/kyc-steps)
-- [FAQ’s](/pages/faqs)
+- [FAQ](/pages/faq)
 - Other Links
   - [About](/pages/other-links/about-us)
   - [Regarding Support](/pages/other-links/regarding-support)

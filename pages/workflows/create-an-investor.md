@@ -1,4 +1,5 @@
 ## Create an Investor
+----------------
 
 #### Story -
 > As an investor, I visit the website / app, So that I can sign up and enter details to begin investing.
